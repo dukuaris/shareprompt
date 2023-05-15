@@ -1,0 +1,13 @@
+1. lecture video
+    https://youtu.be/wm5gMKuwSYk
+
+2. Auth
+    https://youtu.be/wm5gMKuwSYk?t=4528
+
+3. Get google auth 
+    https://youtu.be/wm5gMKuwSYk?t=4834 
+
+4. Mongo DB setup
+    https://youtu.be/wm5gMKuwSYk?t=5283 
+
+5. 
